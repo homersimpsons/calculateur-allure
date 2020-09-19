@@ -1,4 +1,6 @@
-# calculateur-allure
+# Calculateur Allure
+
+Un calculateur d'allure, basé sur [plans-entrainement.net](https://plans-entrainement.net/estimateur-de-performances-calculateur-dallures/)
 
 ## Project setup
 ```
